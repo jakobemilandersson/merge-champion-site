@@ -4,8 +4,8 @@ google.com, pub-2692426969642448, DIRECT, f08c47fec0942fa0
 facebook.com, 1750318682879895, DIRECT, c3e20eee3f780d68
 
 # ironSource / Unity LevelPlay
-# ironsrc.com, [YOUR_IRONSOURCE_PUBLISHER_ID], DIRECT, 55c9f7c70e584c19
-# unity.com, [YOUR_IRONSOURCE_PUBLISHER_ID], RESELLER
+ironsrc.com, 677211, DIRECT, 55c9f7c70e584c19
+unity.com, 677211, RESELLER
 
 # Pangle (add when approved)
 # pangleglobal.com, [YOUR_PANGLE_PUBLISHER_ID], DIRECT
